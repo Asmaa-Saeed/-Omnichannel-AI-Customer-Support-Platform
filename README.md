@@ -356,7 +356,7 @@ The following screenshots and demo videos highlight the core automation workflow
 
 Shows how conversations are seamlessly transferred from the AI assistant to a human support agent.
 
-📷 Dashboard
+📷 workflow screenshot
 
 ![Human Handoff](images/handoff-dashboard.png)
 
@@ -368,10 +368,10 @@ Shows how conversations are seamlessly transferred from the AI assistant to a hu
 
 Illustrates the workflow used to review unanswered questions and automatically synchronize approved answers with the RAG knowledge base.
 
-📷 Admin Review Queue
+📷 Missed question workflow and dashboard screenshot
 
 ![Missed Questions](Images/missed-questions-workflow.PNG)
-![Missed Questions](Images/missed-questions-workflow.PNG)
+![Missed Questions](Images/missed-questions-dashboard.PNG)
 
 
 
