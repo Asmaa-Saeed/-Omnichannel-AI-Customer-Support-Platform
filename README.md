@@ -386,11 +386,15 @@ Displays the automated customer satisfaction survey triggered after conversation
 ---
 ## Whatsapp Workflow screenshot
 ![ Customer Rating](Images/whatsapp-bot.PNG)
-![ Customer Rating](Images/whats.PNG)
+![ Customer Rating](Images/whats.jpg)
 
 ## Instagram Workflow screenshot
 ![ Customer Rating](Images/instgram-bot.PNG)
-![ Customer Rating](Images/insta.PNG)
+![ Customer Rating](Images/insta.jpg)
+
+## Web & Mobile Workflow screenshot
+![ Customer Rating](Images/web&mobile-bot.PNG)
+![ Customer Rating](Images/insta.jpg)
 
 # ⚡ Engineering Challenges
 
