@@ -380,18 +380,13 @@ Illustrates the workflow used to review unanswered questions and automatically s
 ## ⭐ Customer Rating
 
 Displays the automated customer satisfaction survey triggered after conversation resolution.
-
-🎥 Demo
-
-https://github.com/user-attachments/...
+![ Customer Rating](Images/survay.PNG)
+![ Customer Rating](Images/بي.PNG)
 
 ---
-
-## 🖥 Admin Dashboard
-
-Overview of the centralized dashboard used by support agents to monitor conversations, manage AI interactions, and review customer requests.
-
-![Dashboard](images/dashboard.png)
+Whatsapp Workflow screenshot
+![ Customer Rating](Images/whatsapp-bot.PNG)
+![ Customer Rating](Images/whatsapp-bot.PNG)
 
 
 
