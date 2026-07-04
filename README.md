@@ -402,7 +402,10 @@ Displays the automated customer satisfaction survey triggered after conversation
 
 ## 🖥 Admin Dashboard
 
-📷
+📷![ Customer Rating](Images/statesDashboard.PNG)
+![ Customer Rating](Images/chats.PNG)
+![ Customer Rating](Images/kb.PNG)
+![Missed Questions](Images/missed-questions-dashboard.PNG)
 
 
 # ⚡ Engineering Challenges
