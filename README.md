@@ -363,6 +363,9 @@ Shows how conversations are seamlessly transferred from the AI assistant to a hu
 
 
 ---
+## 🧠 Knowledge Base (RAG)
+
+📷 ![Missed Questions](Images/kb-workflow.PNG)
 
 ## 🧠 Knowledge Base Training (Missed Questions)
 
@@ -394,7 +397,13 @@ Displays the automated customer satisfaction survey triggered after conversation
 
 ## Web & Mobile Workflow screenshot
 ![ Customer Rating](Images/web&mobile-bot.PNG)
-![ Customer Rating](Images/insta.jpg)
+![ Customer Rating](Images/webchat.jpg)
+![ Customer Rating](Images/historyweb.jpg)
+
+## 🖥 Admin Dashboard
+
+📷
+
 
 # ⚡ Engineering Challenges
 
@@ -470,48 +479,6 @@ These measures help ensure reliable execution across different automation workfl
 | **Development** | JavaScript, Python |
 
 ---
-
-# 📸 Visual Showcase
-
-The following screenshots and demo videos highlight the platform's core workflows and user experience.
-
-## 🏗 System Architecture
-
-📷 Architecture Diagram
-
----
-
-## 🤖 AI Conversation
-
-🎥 AI conversation workflow demo
-
----
-
-## 👨‍💻 Human Handoff
-
-📷 Dashboard Screenshot
-
-🎥 Human handoff demo
-
----
-
-## 🧠 Knowledge Base Training (Missed Questions)
-
-📷 Admin Review Queue
-
-🎥 Knowledge base training demo
-
----
-
-## ⭐ Customer Rating
-
-🎥 Customer satisfaction workflow demo
-
----
-
-## 🖥 Admin Dashboard
-
-📷 Dashboard Overview
 
 ---
 
