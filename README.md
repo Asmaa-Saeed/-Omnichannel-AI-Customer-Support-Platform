@@ -358,7 +358,7 @@ Shows how conversations are seamlessly transferred from the AI assistant to a hu
 
 📷 workflow screenshot
 
-![Human Handoff](images/handoff-dashboard.png)
+![Human Handoff](Images/human-handoff.PNG)
 
 
 
