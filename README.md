@@ -109,13 +109,7 @@ Each customer request follows an automated workflow that determines whether the 
                  Admin Dashboard
 ```
 
-> Replace the diagram above with your architecture image.
 
-```text
-images/architecture.png
-```
-
----
 
 # 🧩 Core Components
 
@@ -197,11 +191,7 @@ n8n Workflow
 - PostgreSQL
 - Supabase Vector Store
 
-### Demo
 
-🎥 `videos/ai-conversation-demo.mp4`
-
----
 
 ## 👨‍💻 Human Handoff Workflow
 
@@ -254,9 +244,6 @@ Conversation Status Updated
 - PostgreSQL
 - REST APIs
 
-### Demo
-
-🎥 `videos/human-handoff-demo.mp4`
 
 ---
 
@@ -323,9 +310,6 @@ Knowledge Base Updated
 - PostgreSQL
 - Supabase Vector Store
 
-### Demo
-
-🎥 `videos/missed-questions-demo.mp4`
 
 ---
 
@@ -365,21 +349,6 @@ The following screenshots and demo videos highlight the core automation workflow
 
 ---
 
-## 🏗 System Architecture
-
-📷 High-level architecture of the platform.
-
-![Architecture](images/architecture.png)
-
----
-
-## 🤖 AI Conversation
-
-Demonstrates how customer messages are processed through the AI automation pipeline.
-
-🎥 Demo
-
-https://github.com/user-attachments/...
 
 ---
 
@@ -391,9 +360,7 @@ Shows how conversations are seamlessly transferred from the AI assistant to a hu
 
 ![Human Handoff](images/handoff-dashboard.png)
 
-🎥 Demo
 
-https://github.com/user-attachments/...
 
 ---
 
@@ -403,11 +370,10 @@ Illustrates the workflow used to review unanswered questions and automatically s
 
 📷 Admin Review Queue
 
-![Missed Questions](images/missed-questions.png)
+![Missed Questions](Images/missed-questions-workflow.PNG)
+![Missed Questions](Images/missed-questions-workflow.PNG)
 
-🎥 Demo
 
-https://github.com/user-attachments/...
 
 ---
 
